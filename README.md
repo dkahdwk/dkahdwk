@@ -14,7 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkahdwk&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dkahdwk&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dkahdwk&show_icons=true" />
 </a>
 
 
