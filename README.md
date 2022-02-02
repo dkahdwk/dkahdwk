@@ -1,4 +1,6 @@
 
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkahdwk&theme=dracula&layout=compact" />
 </a>
@@ -8,12 +10,15 @@
 
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+  
+</div>
 
   ---
-  
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dkahdwk&theme=dracula&show_icons=true" 
+    <img src="https://github-readme-stats.vercel.app/api?username=dkahdwk&theme=dracula&show_icons=true" 
   </a>
+</div>
 
 
 <!--
