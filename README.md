@@ -7,12 +7,8 @@
 
   ---
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkahdwk&theme=dracula&layout=compact" />
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dkahdwk&theme=dracula&show_icons=true" />
-  </a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dkahdwk&theme=dracula&show_icons=true" 
 </div>
 
 
