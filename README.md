@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkahdwk&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkahdwk&theme=dracula&layout=compact" />
 </a>
 
   <div align="left">
@@ -18,7 +18,7 @@
   ---
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dkahdwk&show_icons=true" 
+    <img src="https://github-readme-stats.vercel.app/api?username=dkahdwk&theme=dracula&show_icons=true" 
   </a>
 </div>
 
